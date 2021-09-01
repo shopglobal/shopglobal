@@ -3,7 +3,7 @@
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <br>
-<p align="center"><a href="https://github.com/shopglobal"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" /></p>
+<p align="left"><a href="https://github.com/shopglobal"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" /></p>
 </br>
 
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
