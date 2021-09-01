@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Allen Evans</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer / Blockchain Developer</h3>
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <br>
@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with [Layer2 & Mobile/Web DeFi solutions](https://github.com/interchained/sidechained)
 - 👨‍💻 All of my projects are available at [https://github.com/electronero/electronero](https://github.com/electronero/electronero)
 - 📝 I regularly chat on Telegram [https://t.me/interchained](https://t.me/interchained)
-- 💬 Ask me about **C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
+- 💬 Ask me about **Blockchain, Bitcoin, Ethereum, Binance Smart Chain, Monero, Electronero, Cryptonote, Trading Bots, API and/or Database construction, C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
 - 📫 How to reach me **evansmark.work@gmail.com**
 
 
