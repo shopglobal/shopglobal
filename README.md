@@ -22,20 +22,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopglobal&" alt="shopglobal" /></p>
 
 <p align="center">
-- 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
-
-- 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
-
-- 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
-
-- 🤝 I’m looking for help with [Layer2 & Mobile/Web DeFi solutions](https://github.com/interchained/sidechained)
-
-- 👨‍💻 All of my projects are available at [https://github.com/electronero/electronero](https://github.com/electronero/electronero)
-
-- 📝 I regularly chat on Telegram [https://t.me/interchained](https://t.me/interchained)
-
-- 💬 Ask me about **C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
-
-- 📫 How to reach me **evansmark.work@gmail.com**
-
+  - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
+  - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
+  - 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
+  - 🤝 I’m looking for help with [Layer2 & Mobile/Web DeFi solutions](https://github.com/interchained/sidechained)
+  - 👨‍💻 All of my projects are available at [https://github.com/electronero/electronero](https://github.com/electronero/electronero)
+  - 📝 I regularly chat on Telegram [https://t.me/interchained](https://t.me/interchained)
+  - 💬 Ask me about **C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
+  - 📫 How to reach me **evansmark.work@gmail.com**
 </p>
