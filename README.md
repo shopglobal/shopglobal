@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Evans</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=shopglobal)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/interchained" target="blank"><img src="https://img.shields.io/twitter/follow/interchained?logo=twitter&style=for-the-badge" alt="interchained" /></a> </p>
 
