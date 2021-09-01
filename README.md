@@ -32,4 +32,51 @@
 <a href="https://t.me/interchained" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="interchained" height="30" width="30" /></a>
 </p>
 
+## Supporting the project
+
+Electronero is a 100% community driven endeavor. To join community efforts, the easiest thing you can do is support the project financially. Electronero donations can be made to the Electronero donation address via the `donate` command (type `help` in the command-line wallet for details). Else, here are our dev teams addresses. The funding goes to many developers, and volunteers who contribute, they are grateful for our donations! 
+<p align="center">
+The Monero donation address is: `85PTaJNpkEEeJao2MNk1sRWTQXLUf1FGjZew8oR8R4cRUrXxFrTexa9GwrjmJD4Pyx6UrjgMQnuMoFNmaBKqxs7PPXVe9oX`
+
+The Bitcoin donation address is: `38jiBKevQHp8zhQpZ42bTvK4QpzzqWkA3K`
+
+The Ethereum donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The Tether USD donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The ZCash donation address is: `t1Kmnv9eDqw7VyDWmzSUbjBPrxoY7hMuUCc` 
+
+The Liquid donation address is: `VJL9H2mk4tKBRgSkTNkSrFGQABiNxUs1UPbm4rHCsE8vF87kSJgSo8AQfGDt54nC59tEtb2W47GsMrw2` 
+
+The Electronero donation address is: `etnkHfFuanNeTe3q9dux4d9cRiLkUR4hDffvhfTp6nbhEJ5R8TY4vdyZjT4BtWxnvSJ5nfD64eCAQfKMJHSym2dj8PQqeiKmBM` 
+
+The Electroneum donation address is: `etnkHfFuanNeTe3q9dux4d9cRiLkUR4hDffvhfTp6nbhEJ5R8TY4vdyZjT4BtWxnvSJ5nfD64eCAQfKMJHSym2dj8PQqeiKmBM` 
+
+The Dogecoin donation address is: `DTTez7ggKPzDcKuUUTns8VzMrKesZUKMCk` 
+
+The Litecoin donation address is: `MAtV7sbBnmuf2bxVUPgCprpmJ5xX6euBwe`
+
+The Sumokoin donation address is: `Sumoo47CGenbHfZtpCVV4PRMSsXP38idFdt5JSj7VuJrD1nABoPHTBHgR6owQJfn1JU8BiWWohw4oiefGEjAn4GmbFYYtCcfPeT`
+
+The Aave donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The Attention Token  donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The Cardano ADA donation address is: `DdzFFzCqrhspgQJTD1r81KsmXjzySdu4Zb4pJf7iLxkcVKvoRLoVHss9f2147QTRCRkQAFjWwHdr77Snn3efEo9ne4YzM5UCwwnMGR15` 
+
+The Compound donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The Dash donation address is: `XcFVDo2k3XRJwQKQQRgMBfhCEDFANawQ3B` 
+
+The Maker donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The Paxos Standard donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The REN donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The TrueUSD donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+The USDCoin donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+</p>
 
