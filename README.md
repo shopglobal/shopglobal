@@ -32,9 +32,9 @@
 <a href="https://t.me/interchained" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="interchained" height="30" width="30" /></a>
 </p>
 
-## Supporting the project
+## Support open-source projects I contribute to
 
-Electronero is a 100% community driven endeavor. To join community efforts, the easiest thing you can do is support the project financially. Electronero donations can be made to the Electronero donation address via the `donate` command (type `help` in the command-line wallet for details). Else, here are our dev teams addresses. The funding goes to many developers, and volunteers who contribute, they are grateful for our donations! 
+Electronero Network is a 100% community driven endeavor. To promote community efforts the easiest thing you can do is support the project financially. Electronero donations can be made to the Electronero donation address via the `donate` command (type `help` in the command-line wallet for details). Else, here are official donation addresses. The funding goes to many developers, and volunteers who contribute, they are grateful for our donations! 
 <p align="center">
 The Monero donation address is: `85PTaJNpkEEeJao2MNk1sRWTQXLUf1FGjZew8oR8R4cRUrXxFrTexa9GwrjmJD4Pyx6UrjgMQnuMoFNmaBKqxs7PPXVe9oX`
 
