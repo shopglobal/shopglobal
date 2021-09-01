@@ -15,7 +15,7 @@
 <a href="https://fb.com/vaporexpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaporexpo" height="30" width="40" /></a>
 <a href="https://t.me/interchained" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="interchained" height="30" width="40" /></a>
 </p>
-<br><br>
+<br>
 
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
 - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
