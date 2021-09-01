@@ -20,6 +20,7 @@
 <br>
 <p align="center"><a href="https://github.com/shopglobal"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a> </p>
 </br>
+
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
 - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
 - 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
