@@ -3,6 +3,7 @@
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <br>
+
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
 - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
 - 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
