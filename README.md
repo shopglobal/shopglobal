@@ -36,6 +36,7 @@
 
 Electronero Network is a 100% community driven endeavor. To promote community efforts the easiest thing you can do is support the project financially. Electronero donations can be made to the Electronero donation address via the `donate` command (type `help` in the command-line wallet for details). Else, here are official donation addresses. The funding goes to many developers, and volunteers who contribute, they are grateful for our donations! 
 <p align="center">
+  
 The Monero donation address is: `85PTaJNpkEEeJao2MNk1sRWTQXLUf1FGjZew8oR8R4cRUrXxFrTexa9GwrjmJD4Pyx6UrjgMQnuMoFNmaBKqxs7PPXVe9oX`
 
 The Bitcoin donation address is: `38jiBKevQHp8zhQpZ42bTvK4QpzzqWkA3K`
