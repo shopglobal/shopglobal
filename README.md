@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mark Evans</h1>
 <h3 align="center">Full stack developer</h3>
+
+
+- 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
+- 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
+- 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
+- 🤝 I’m looking for help with [Layer2 & Mobile/Web DeFi solutions](https://github.com/interchained/sidechained)
+- 👨‍💻 All of my projects are available at [https://github.com/electronero/electronero](https://github.com/electronero/electronero)
+- 📝 I regularly chat on Telegram [https://t.me/interchained](https://t.me/interchained)
+- 💬 Ask me about **C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
+- 📫 How to reach me **evansmark.work@gmail.com**
+
+
 <p align="center"><a href="https://www.buymeacoffee.com/interchained"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="interchained" /></a></p>
 <p align="center"> <a href="https://twitter.com/interchained" target="blank"><img src="https://img.shields.io/twitter/follow/interchained?logo=twitter&style=for-the-badge" alt="interchained" /></a> </p>
 <h3 align="center">Connect with me:</h3>
@@ -21,13 +33,4 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopglobal&" alt="shopglobal" /></p>
 
-<p align="center">
-  - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
-  - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
-  - 👯 I’m looking to collaborate on [Electronero Network](https://github.com/electronero/electronero)
-  - 🤝 I’m looking for help with [Layer2 & Mobile/Web DeFi solutions](https://github.com/interchained/sidechained)
-  - 👨‍💻 All of my projects are available at [https://github.com/electronero/electronero](https://github.com/electronero/electronero)
-  - 📝 I regularly chat on Telegram [https://t.me/interchained](https://t.me/interchained)
-  - 💬 Ask me about **C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**
-  - 📫 How to reach me **evansmark.work@gmail.com**
-</p>
+
