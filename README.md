@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mark Evans</h1>
 <h3 align="center">Full stack developer</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/interchained"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="interchained" /></a></p>
-<p align="center"> <a href="https://twitter.com/interchained" target="blank"><img src="https://img.shields.io/twitter/follow/interchained?logo=twitter&style=for-the-badge" alt="interchained" /></a> </p><br><br>
 
+<p align="center"> <a href="https://twitter.com/interchained" target="blank"><img src="https://img.shields.io/twitter/follow/interchained?logo=twitter&style=for-the-badge" alt="interchained" /></a> </p><br><br>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a> </p>
 </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopglobal&" alt="shopglobal" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
+
 
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
 
