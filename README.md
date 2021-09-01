@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark Evans</h1>
-<h3 align="center">Full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Mark Allen Evans</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <br>
