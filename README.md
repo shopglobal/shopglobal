@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/globalvapor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="globalvapor" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14909949/interchained" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="interchained" height="30" width="40" /></a>
 <a href="https://fb.com/vaporexpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaporexpo" height="30" width="40" /></a>
+<a href="https://t.me/interchained" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="interchained" height="30" width="40" /></a>
 </p>
 <br><br>
 <p align="center"><a href="https://github.com/shopglobal"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a> </p>
@@ -20,7 +21,7 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopglobal&" alt="shopglobal" /></p>
 
-
+<p align="center">
 - 🔭 I’m currently working on [SideChained AIO Bridge](https://github.com/interchained/sidechained)
 
 - 🌱 I’m currently learning **GO, Flutter, Dart, Rust**
@@ -37,3 +38,4 @@
 
 - 📫 How to reach me **evansmark.work@gmail.com**
 
+</p>
