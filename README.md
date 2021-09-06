@@ -42,22 +42,36 @@ The Monero donation address is: `85PTaJNpkEEeJao2MNk1sRWTQXLUf1FGjZew8oR8R4cRUrX
 The Bitcoin donation address is: `38jiBKevQHp8zhQpZ42bTvK4QpzzqWkA3K`
   
 BSC & BEP20 Binance Smart Chain donation address is: `0xC925F19cb5f22F936524D2E8b17332a6f4338751`
+  
 WBNB donation address is: `0xC925F19cb5f22F936524D2E8b17332a6f4338751`
+  
 BabyDoge donation address is: `0xC925F19cb5f22F936524D2E8b17332a6f4338751`
   
 BNB & BEP2 Tokens donation address is: `bnb1ldmu9hm2mm0jwrzpuekyxektdnxpp2046szfp2`
+  
 USDt (BEP2) donation address is: `bnb1ldmu9hm2mm0jwrzpuekyxektdnxpp2046szfp2`
+
 BUSD (BEP2) donation address is: `bnb1ldmu9hm2mm0jwrzpuekyxektdnxpp2046szfp2`
   
 The Ethereum donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Tether USD donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Aave donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Attention Token  donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Compound donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Maker donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The Paxos Standard donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
+
 The REN donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The TrueUSD donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4` 
+
 The USDCoin donation address is: `0x59d26980a1cdd75e1c3af516b912a6233aa2f5e4`
 
 The ZCash donation address is: `t1Kmnv9eDqw7VyDWmzSUbjBPrxoY7hMuUCc` 
